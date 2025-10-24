@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @devenkolte
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning DSA and Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedln - https://www.linkedin.com/in/deven-kolte-a92172268/
+- 📫 How to reach me linkedln - linkedin.com/in/devenkolte
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
