@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @devenkolte
 - 👀 I’m interested in Data Science and Machine Learning
 - 📫 How to reach me linkedln - linkedin.com/in/devenkolte
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 devenkolte/devenkolte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
